@@ -39,12 +39,12 @@
 
 // Qusetion no 4
 
-let c=prompt("Enter Your Name");
+let d=prompt("Enter Your Name");
 
-if(c="Ashar"){
+
+if(d==="Ashar"){
     console.log("Hello! Ashar");
 }
 
-else{
-    
-}
+
+//Question no 5
